@@ -1,4 +1,4 @@
-class OwnerUontroller < ApplicationController
+class OwnerController < ApplicationController
   before_filter :check_owner
 
   private

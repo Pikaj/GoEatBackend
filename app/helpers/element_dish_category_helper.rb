@@ -1,0 +1,2 @@
+module ElementDishCategoryHelper
+end

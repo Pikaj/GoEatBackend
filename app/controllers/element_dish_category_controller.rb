@@ -1,0 +1,2 @@
+class ElementDishCategoryController < ApplicationController
+end

@@ -1,0 +1,2 @@
+class DishController < ApplicationController
+end

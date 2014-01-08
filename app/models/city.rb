@@ -1,6 +1,3 @@
 class City < ActiveRecord::Base
-
-	def index
-		render :json => City.all
-	end
+	has_many :restaurants
 end
